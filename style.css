@@ -308,3 +308,14 @@ ul.box-redes-sociais li.instagram a:before {
 ul.box-redes-sociais li.linkedin a:before {
 	background: #007fff;
 }
+
+ul.box-redes-sociais li a,
+ul.box-redes-sociais li a:visited,
+ul.box-redes-sociais li a .icon,
+ul.box-redes-sociais li a:visited .icon,
+ul.box-redes-sociais li a svg,
+ul.box-redes-sociais li a i {
+	text-decoration: none !important;
+	border: none !important;
+	box-shadow: none !important;
+}
