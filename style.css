@@ -260,6 +260,7 @@ ul.box-redes-sociais li a {
   	overflow: hidden;
   	z-index: 1;
   	transition: transform 0.3s;
+	text-decoration: none;
 }
 
 ul.box-redes-sociais li a .icon {
